@@ -18,7 +18,7 @@ command_aliases = {}  # Dictionary to hold command aliases
 command_list = ["help","about","exit","clear", "pwd", "ls", ]
 
 # ANSI color codes for customization
-color_codes = {""
+color_codes = {
     'reset': "\033[0m", 
     'red': "\033[31m",
     'green': "\033[32m", 
